@@ -1,0 +1,13 @@
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\bin\Release\SteganografiPC.exe.config
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\bin\Release\SteganografiPC.exe
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\bin\Release\SteganografiPC.pdb
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\bin\Release\MetroFramework.Design.dll
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\bin\Release\MetroFramework.dll
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\bin\Release\MetroFramework.Fonts.dll
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\obj\Release\SteganografiPC.csprojResolveAssemblyReference.cache
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\obj\Release\SteganografiPC.About.resources
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\obj\Release\SteganografiPC.Form2.resources
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\obj\Release\SteganografiPC.Properties.Resources.resources
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\obj\Release\SteganografiPC.csproj.GenerateResource.Cache
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\obj\Release\SteganografiPC.exe
+D:\Campus\Semester 6 (N)\Pengolahan Citra (UTS)\Project\SteganografiPC\SteganografiPC\obj\Release\SteganografiPC.pdb
